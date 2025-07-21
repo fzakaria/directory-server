@@ -18,6 +18,7 @@ under the License. -->
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.directory.server/apacheds-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.directory.server/apacheds-all)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/apache/directory-server/badge)](https://api.securityscorecards.dev/projects/github.com/apache/directory-server)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffzakaria%2Fdirectory-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffzakaria%2Fdirectory-server?ref=badge_shield)
 
 Apache Directory Server
 =========================
@@ -50,3 +51,6 @@ Export Notice
    software:
 
    http://www.bouncycastle.org/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffzakaria%2Fdirectory-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffzakaria%2Fdirectory-server?ref=badge_large)
